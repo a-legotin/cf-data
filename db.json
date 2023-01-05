@@ -13,13 +13,13 @@
     "id": 1,
     "name": "Alexander Legotin",
     "username": "alex",
-    "email": "alex@ezlab.ru",
+    "email": "alex@ezlab.ru"
   },
   {
     "id": 2,
     "name": "Vasya",
     "username": "vasya",
-    "email": "vasya@ezlab.ru",
+    "email": "vasya@ezlab.ru"
   }
   ]
 }
